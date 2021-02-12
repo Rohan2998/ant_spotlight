@@ -41,6 +41,9 @@ dependencies:
   #for video player indicator
   video_player: ^1.0.1
 
+  #http package
+  http: ^0.12.2
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
